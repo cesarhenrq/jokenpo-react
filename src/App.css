@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  color: #6950A1;
+
+}
+
+body {
+  background-color: light-gray;
+}
+
+.main-page-title {
+  text-align: center;
+  margin: 200px 0 400px 0;
+}
+
+.main-end-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
